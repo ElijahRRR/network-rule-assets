@@ -1,4 +1,4 @@
-# managed rules; release 46b1cbd4aa0132287ac8
+# managed rules; release 21958ecb79fa24dce079
 IP-CIDR,8.128.0.0/10
 IP-CIDR,8.209.32.0/22
 IP-CIDR,8.209.40.0/21

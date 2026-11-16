@@ -30,30 +30,6 @@
       "name": "日常出口",
       "type": "select",
       "proxies": [
-        "断开",
-        "自动备用",
-        "机场"
-      ],
-      "use": [
-        "DMIT",
-        "OCI"
-      ],
-      "url": "https://cp.cloudflare.com/generate_204"
-    },
-    {
-      "name": "机场",
-      "type": "select",
-      "proxies": [
-        "断开"
-      ],
-      "use": [
-        "AIRPORT"
-      ],
-      "url": "https://cp.cloudflare.com/generate_204"
-    },
-    {
-      "type": "fallback",
-      "proxies": [
         "断开"
       ],
       "use": [
@@ -61,27 +37,7 @@
         "OCI",
         "AIRPORT"
       ],
-      "filter": "原生|美国",
-      "url": "https://cp.cloudflare.com/generate_204",
-      "interval": 600,
-      "hidden": true,
-      "name": "自动备用"
-    },
-    {
-      "type": "fallback",
-      "proxies": [
-        "断开"
-      ],
-      "use": [
-        "DMIT",
-        "OCI",
-        "AIRPORT"
-      ],
-      "filter": "原生|美国",
-      "url": "https://cp.cloudflare.com/generate_204",
-      "interval": 600,
-      "hidden": true,
-      "name": "资源更新"
+      "url": "https://cp.cloudflare.com/generate_204"
     }
   ],
   "rule-providers": {
@@ -89,77 +45,77 @@
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/personal-0-direct.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/personal-0-direct.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/personal-0-direct.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/personal-0-direct.list",
+      "proxy": "日常出口"
     },
     "personal-0-proxy": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/personal-0-proxy.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/personal-0-proxy.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/personal-0-proxy.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/personal-0-proxy.list",
+      "proxy": "日常出口"
     },
     "public-1-proxy": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-1-proxy.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-1-proxy.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-1-proxy.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-1-proxy.list",
+      "proxy": "日常出口"
     },
     "public-2-direct": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-2-direct.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-2-direct.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-2-direct.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-2-direct.list",
+      "proxy": "日常出口"
     },
     "public-3-reject": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-3-reject.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-3-reject.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-3-reject.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-3-reject.list",
+      "proxy": "日常出口"
     },
     "public-4-direct": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-4-direct.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-4-direct.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-4-direct.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-4-direct.list",
+      "proxy": "日常出口"
     },
     "public-5-proxy": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-5-proxy.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-5-proxy.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-5-proxy.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-5-proxy.list",
+      "proxy": "日常出口"
     },
     "public-6-direct": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/mac/public-6-direct.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/21958ecb79fa24dce079/mac/public-6-direct.list",
       "interval": 86400,
-      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/mac/public-6-direct.list",
-      "proxy": "资源更新"
+      "path": "./rule-providers/v3/rules/21958ecb79fa24dce079/mac/public-6-direct.list",
+      "proxy": "日常出口"
     }
   },
   "rules": [
-    "DOMAIN,raw.githubusercontent.com,资源更新",
+    "DOMAIN,raw.githubusercontent.com,日常出口",
     "RULE-SET,personal-0-direct,DIRECT,no-resolve",
     "RULE-SET,personal-0-proxy,日常出口,no-resolve",
     "AND,((NETWORK,UDP),(RULE-SET,personal-0-proxy)),REJECT",
@@ -205,7 +161,7 @@
     "direct-nameserver-follow-policy": false,
     "nameserver-policy": {
       "raw.githubusercontent.com": [
-        "https://8.8.8.8/dns-query#资源更新"
+        "https://8.8.8.8/dns-query#日常出口"
       ]
     }
   },

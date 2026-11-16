@@ -1,4 +1,4 @@
-# managed rules; release 46b1cbd4aa0132287ac8
+# managed rules; release 21958ecb79fa24dce079
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
