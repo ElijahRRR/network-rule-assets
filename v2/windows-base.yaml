@@ -64,330 +64,352 @@
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-000.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-000.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-000.list",
-      "proxy": "资源更新"
-    },
-    "personal-001": {
-      "type": "http",
-      "behavior": "classical",
-      "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-001.list",
-      "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-001.list",
-      "proxy": "资源更新"
-    },
-    "personal-004": {
-      "type": "http",
-      "behavior": "classical",
-      "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-004.list",
-      "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-004.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-000.list",
       "proxy": "资源更新"
     },
     "personal-006": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-006.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-006.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-006.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-006.list",
       "proxy": "资源更新"
     },
-    "personal-020": {
+    "personal-007": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-020.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-007.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-020.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-007.list",
       "proxy": "资源更新"
     },
-    "personal-027": {
+    "personal-052": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-027.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-052.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-027.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-052.list",
       "proxy": "资源更新"
     },
-    "personal-028": {
+    "personal-054": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/personal-028.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-054.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/personal-028.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-054.list",
+      "proxy": "资源更新"
+    },
+    "personal-090": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-090.list",
+      "interval": 86400,
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-090.list",
+      "proxy": "资源更新"
+    },
+    "personal-097": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-097.list",
+      "interval": 86400,
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-097.list",
+      "proxy": "资源更新"
+    },
+    "personal-098": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-098.list",
+      "interval": 86400,
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-098.list",
+      "proxy": "资源更新"
+    },
+    "personal-142": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/personal-142.list",
+      "interval": 86400,
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/personal-142.list",
       "proxy": "资源更新"
     },
     "public-00": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-00.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-00.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-00.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-00.list",
       "proxy": "资源更新"
     },
     "public-01": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-01.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-01.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-01.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-01.list",
       "proxy": "资源更新"
     },
     "public-02": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-02.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-02.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-02.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-02.list",
       "proxy": "资源更新"
     },
     "public-03": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-03.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-03.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-03.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-03.list",
       "proxy": "资源更新"
     },
     "public-04": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-04.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-04.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-04.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-04.list",
       "proxy": "资源更新"
     },
     "public-05": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-05.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-05.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-05.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-05.list",
       "proxy": "资源更新"
     },
     "public-06": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-06.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-06.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-06.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-06.list",
       "proxy": "资源更新"
     },
     "public-07": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-07.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-07.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-07.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-07.list",
       "proxy": "资源更新"
     },
     "public-08": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-08.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-08.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-08.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-08.list",
       "proxy": "资源更新"
     },
     "public-09": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-09.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-09.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-09.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-09.list",
       "proxy": "资源更新"
     },
     "public-10": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-10.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-10.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-10.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-10.list",
       "proxy": "资源更新"
     },
     "public-11": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-11.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-11.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-11.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-11.list",
       "proxy": "资源更新"
     },
     "public-12": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-12.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-12.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-12.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-12.list",
       "proxy": "资源更新"
     },
     "public-13": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-13.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-13.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-13.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-13.list",
       "proxy": "资源更新"
     },
     "public-14": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-14.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-14.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-14.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-14.list",
       "proxy": "资源更新"
     },
     "public-15": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-15.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-15.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-15.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-15.list",
       "proxy": "资源更新"
     },
     "public-16": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-16.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-16.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-16.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-16.list",
       "proxy": "资源更新"
     },
     "public-17": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-17.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-17.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-17.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-17.list",
       "proxy": "资源更新"
     },
     "public-18": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-18.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-18.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-18.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-18.list",
       "proxy": "资源更新"
     },
     "public-19": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-19.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-19.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-19.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-19.list",
       "proxy": "资源更新"
     },
     "public-20": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-20.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-20.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-20.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-20.list",
       "proxy": "资源更新"
     },
     "public-21": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-21.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-21.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-21.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-21.list",
       "proxy": "资源更新"
     },
     "public-22": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-22.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-22.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-22.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-22.list",
       "proxy": "资源更新"
     },
     "public-23": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-23.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-23.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-23.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-23.list",
       "proxy": "资源更新"
     },
     "public-24": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-24.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-24.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-24.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-24.list",
       "proxy": "资源更新"
     },
     "public-25": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-25.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-25.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-25.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-25.list",
       "proxy": "资源更新"
     },
     "public-26": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-26.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-26.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-26.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-26.list",
       "proxy": "资源更新"
     },
     "public-27": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/21958ecb79fa24dce079/windows/public-27.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/a4057a9c9857ead42736/windows/public-27.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/21958ecb79fa24dce079/windows/public-27.list",
+      "path": "./rule-providers/versions/a4057a9c9857ead42736/windows/public-27.list",
       "proxy": "资源更新"
     }
   },
   "rules": [
     "DOMAIN,raw.githubusercontent.com,资源更新",
-    "RULE-SET,personal-000,DIRECT,no-resolve",
-    "RULE-SET,personal-001,日常出口,no-resolve",
-    "AND,((NETWORK,UDP),(RULE-SET,personal-001)),REJECT",
-    "RULE-SET,personal-004,DIRECT,no-resolve",
-    "RULE-SET,personal-006,日常出口,no-resolve",
-    "AND,((NETWORK,UDP),(RULE-SET,personal-006)),REJECT",
-    "RULE-SET,personal-020,DIRECT,no-resolve",
-    "RULE-SET,personal-027,日常出口,no-resolve",
-    "AND,((NETWORK,UDP),(RULE-SET,personal-027)),REJECT",
-    "RULE-SET,personal-028,DIRECT,no-resolve",
+    "RULE-SET,personal-000,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-000)),REJECT",
+    "RULE-SET,personal-006,DIRECT,no-resolve",
+    "RULE-SET,personal-007,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-007)),REJECT",
+    "RULE-SET,personal-052,DIRECT,no-resolve",
+    "RULE-SET,personal-054,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-054)),REJECT",
+    "RULE-SET,personal-090,DIRECT,no-resolve",
+    "RULE-SET,personal-097,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-097)),REJECT",
+    "RULE-SET,personal-098,DIRECT,no-resolve",
+    "RULE-SET,personal-142,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-142)),REJECT",
     "RULE-SET,public-00,日常出口,no-resolve",
     "AND,((NETWORK,UDP),(RULE-SET,public-00)),REJECT",
     "RULE-SET,public-01,DIRECT,no-resolve",
@@ -4209,10 +4231,43 @@
       "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "accounts.spacex.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "agent-stores.s3.amazonaws.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "agent-stores.s3.us-east-1.amazonaws.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "ai.google.dev": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "aistudio.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "alkalicore-pa.clients6.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "alkalimakersuite-pa.clients6.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "anthropic-com.ghost.io": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "anthropic.auth0.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "anthropic.com.cdn.cloudflare.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "antigravity-pa.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "antigravity.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "anysphere-binaries.s3.us-east-1.amazonaws.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "aod-dash-uk-live.akamaized.net": [
@@ -4233,6 +4288,15 @@
       "api.viu.now.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "appsgenaiserver-pa.clients.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "appsgenaiserver-pa.clients6.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "appsgenaiserver-pa.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "atv-ps.amazon.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4251,13 +4315,34 @@
       "bcbolthboa-a.akamaihd.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "browser-intake-us5-datadoghq.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cdn.openaimerge.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "cdn.registerdisney.go.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cdn.usefathom.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cdn.workos.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "cf-images.ap-southeast-1.prod.boltdns.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "challenges.cloudflare.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "cloud.oracle.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cloudaicompanion.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cloudcode-pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "console.groq.com": [
@@ -4267,6 +4352,21 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "copilot-proxy.githubusercontent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "copilot-telemetry-service.githubusercontent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "copilot-telemetry.githubusercontent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "copilot-workspace.githubnext.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "copilotprodattachments.blob.core.windows.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "cursor.blob.core.windows.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "d151l6v8er5bdm.cloudfront.net": [
@@ -4305,6 +4405,9 @@
       "dai3fd1oh325y.cloudfront.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "daily-cloudcode-pa.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "dfp6rglgjqszk.cloudfront.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4314,6 +4417,12 @@
       "edge.api.brightcove.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "forwarder.workos.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "frontend-apps-multi-region.workos.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "gamer-cds.cdn.hinet.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4321,6 +4430,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "gemini.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "geminiweb-pa.clients.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "geminiweb-pa.clients6.google.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "generativelanguage.googleapis.com": [
@@ -4356,7 +4471,19 @@
       "hbounify-prod.evergent.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "http-intake.logs.us5.datadoghq.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "humb.apple.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "images.workoscdn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "itvpnpmobile-a.akamaihd.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "js.stripe.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "kktv-theater.kk.stream": [
@@ -4368,6 +4495,9 @@
       "litvfreemobile-hichannel.cdn.hinet.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "maps.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "music.youtube.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4377,13 +4507,37 @@
       "mytvsuperlimited.sc.omtrdc.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "notebooklm-pa.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "notebooklm.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "notebooklm.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "players.brightcove.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "ppl-ai-file-upload.s3.amazonaws.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "pplx-res.cloudinary.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "production-copilot-host-westus.webpubsub.azure.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rum.browser-intake-datadoghq.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "s3-ap-southeast-1.amazonaws.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "servd-anthropic-website.b-cdn.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "setup.workos.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "theater-kktv.cdn.hinet.net": [
@@ -4396,6 +4550,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "vod-thumb-uk-live.akamaized.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "webchannel-alkalimakersuite-pa.clients6.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "workos.imgix.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "youtubei.googleapis.com": [
@@ -5067,7 +5227,16 @@
       "+.ai.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.ai.studio": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.aicode.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.aicoin.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.aida.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.aiosearch.com": [
@@ -5089,6 +5258,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.airvpn.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.aisandbox-pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.aisex.com": [
@@ -5449,6 +5621,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.antichristendom.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.antigravity-unleash.goog": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.antigravity.google": [
@@ -7356,6 +7531,9 @@
       "+.chatgpt.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.chatgpt.livekit.cloud": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.chatnook.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7767,10 +7945,19 @@
       "+.classicalguitarblog.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.clau.de": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.claude.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.claude.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.claudemcpclient.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.claudemcpcontent.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.claudeusercontent.com": [
@@ -8190,6 +8377,9 @@
       "+.ct.org.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.ct.sendgrid.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ctao.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8232,10 +8422,19 @@
       "+.cumlouder.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cursor-cdn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cursor.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cursor.sh": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cursorapi.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cursorvm.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.curvefish.com": [
@@ -8584,6 +8783,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.deepmind.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.deepmind.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.deezer.com": [
@@ -10269,6 +10471,12 @@
       "+.flog.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.flow.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.flow.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.flowgpt.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -10662,6 +10870,9 @@
       "+.frommel.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.frompersona.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.frontlinedefenders.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -10986,10 +11197,22 @@
       "+.gelbooru.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.geller-pa.googleapis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gemini.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.gemini.google.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.gemini.gstatic.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.generated.photos": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.generativeai.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.generativelanguage.googleapis.com": [
@@ -12345,6 +12568,15 @@
       "+.grok.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.grok.x.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.grokbot.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.grokipedia.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.grotty-monday.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13081,6 +13313,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.horrorporn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.host.livekit.cloud": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hostloc.com": [
@@ -14418,6 +14653,12 @@
       "+.jukujo-club.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.jules.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.jules.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.juliepost.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14818,6 +15059,15 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.labiennale.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.labs.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.labs.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.labstailwind.pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ladbrokes.com": [
@@ -17040,6 +17290,18 @@
       "+.nos.nl": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.notebook.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.notebook.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.notebooklm.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.notebooklm.google.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.notepad-plus-plus.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17269,6 +17531,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.oaistatic.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.oaistatsig.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.oaiusercontent.com": [
@@ -17503,6 +17768,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.oopsforum.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.opal.google": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.opal.google.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.open.com.hk": [
@@ -17955,6 +18226,9 @@
       "+.perplexity.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.perplexity.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.persecutionblog.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18216,6 +18490,9 @@
       "+.poe.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.poecdn.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.points-media.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18393,6 +18670,9 @@
       "+.powerpointninja.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pplx.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ppy.sh": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18466,6 +18746,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.privoxy.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.proactivebackend-pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.procopytips.com": [
@@ -19168,6 +19451,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.roadshow.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.robinfrontend-pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.roboforex.com": [
@@ -20517,6 +20803,9 @@
       "+.staticflickr.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.statsigapi.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.statueofdemocracy.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20557,6 +20846,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.stileproject.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.stitch.withgoogle.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.stitcher.com": [
@@ -22207,6 +22499,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.turkistantimes.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.turn.livekit.cloud": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.turntable.fm": [
@@ -23932,6 +24227,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.withgoogle.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.withpersona.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.withyoutube.com": [
