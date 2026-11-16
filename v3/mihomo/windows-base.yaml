@@ -1,0 +1,213 @@
+# V3 rules/DNS only; add the private local script before use.
+{
+  "mode": "rule",
+  "log-level": "warning",
+  "profile": {
+    "store-selected": true
+  },
+  "proxies": [
+    {
+      "name": "断开",
+      "type": "reject"
+    }
+  ],
+  "proxy-providers": {
+    "DMIT": {
+      "type": "inline",
+      "payload": []
+    },
+    "OCI": {
+      "type": "inline",
+      "payload": []
+    },
+    "AIRPORT": {
+      "type": "inline",
+      "payload": []
+    }
+  },
+  "proxy-groups": [
+    {
+      "name": "日常出口",
+      "type": "select",
+      "proxies": [
+        "断开",
+        "自动备用",
+        "机场"
+      ],
+      "use": [
+        "DMIT",
+        "OCI"
+      ],
+      "url": "https://cp.cloudflare.com/generate_204"
+    },
+    {
+      "name": "机场",
+      "type": "select",
+      "proxies": [
+        "断开"
+      ],
+      "use": [
+        "AIRPORT"
+      ],
+      "url": "https://cp.cloudflare.com/generate_204"
+    },
+    {
+      "type": "fallback",
+      "proxies": [
+        "断开"
+      ],
+      "use": [
+        "DMIT",
+        "OCI",
+        "AIRPORT"
+      ],
+      "filter": "原生|美国",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": 600,
+      "hidden": true,
+      "name": "自动备用"
+    },
+    {
+      "type": "fallback",
+      "proxies": [
+        "断开"
+      ],
+      "use": [
+        "DMIT",
+        "OCI",
+        "AIRPORT"
+      ],
+      "filter": "原生|美国",
+      "url": "https://cp.cloudflare.com/generate_204",
+      "interval": 600,
+      "hidden": true,
+      "name": "资源更新"
+    }
+  ],
+  "rule-providers": {
+    "personal-0-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/personal-0-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/personal-0-direct.list",
+      "proxy": "资源更新"
+    },
+    "personal-0-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/personal-0-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/personal-0-proxy.list",
+      "proxy": "资源更新"
+    },
+    "public-1-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-1-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-1-proxy.list",
+      "proxy": "资源更新"
+    },
+    "public-2-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-2-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-2-direct.list",
+      "proxy": "资源更新"
+    },
+    "public-3-reject": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-3-reject.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-3-reject.list",
+      "proxy": "资源更新"
+    },
+    "public-4-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-4-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-4-direct.list",
+      "proxy": "资源更新"
+    },
+    "public-5-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-5-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-5-proxy.list",
+      "proxy": "资源更新"
+    },
+    "public-6-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/v3/rules/46b1cbd4aa0132287ac8/windows/public-6-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/v3/rules/46b1cbd4aa0132287ac8/windows/public-6-direct.list",
+      "proxy": "资源更新"
+    }
+  },
+  "rules": [
+    "DOMAIN,raw.githubusercontent.com,资源更新",
+    "RULE-SET,personal-0-direct,DIRECT,no-resolve",
+    "RULE-SET,personal-0-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-0-proxy)),REJECT",
+    "RULE-SET,public-1-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,public-1-proxy)),REJECT",
+    "RULE-SET,public-2-direct,DIRECT,no-resolve",
+    "RULE-SET,public-3-reject,REJECT,no-resolve",
+    "RULE-SET,public-4-direct,DIRECT,no-resolve",
+    "RULE-SET,public-5-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,public-5-proxy)),REJECT",
+    "RULE-SET,public-6-direct,DIRECT,no-resolve",
+    "GEOIP,CN,DIRECT",
+    "NETWORK,UDP,日常出口",
+    "NETWORK,UDP,REJECT",
+    "MATCH,日常出口"
+  ],
+  "dns": {
+    "enable": true,
+    "enhanced-mode": "fake-ip",
+    "fake-ip-range": "198.18.0.1/16",
+    "fake-ip-filter": [
+      "*.lan",
+      "*.local",
+      "localhost"
+    ],
+    "ipv6": false,
+    "default-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "proxy-server-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "direct-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "direct-nameserver-follow-policy": false,
+    "nameserver-policy": {
+      "raw.githubusercontent.com": [
+        "https://8.8.8.8/dns-query#资源更新"
+      ]
+    }
+  },
+  "hosts": {}
+}

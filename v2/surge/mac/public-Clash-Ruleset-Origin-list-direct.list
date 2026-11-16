@@ -1,4 +1,4 @@
-# managed rules; release 648ed8c8f29e2f26e905
+# managed rules; release 46b1cbd4aa0132287ac8
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,origin-a.akamaihd.net
