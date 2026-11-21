@@ -123,8 +123,9 @@
     "whitelist/rules/abaa83631db45050c85d/windows/public-7-direct.list": "0edda4d5cca112d2e48174ba98fc209cd1f71607234630b1397a3de3c07680d3",
     "whitelist/mihomo/windows-base.yaml": "7d16e49f2f88e562a71c934fa051de39454dcec33216ff0cccb62cb794bb7987",
     "whitelist/mihomo/mac-base.yaml": "7bd3fbd60c8bbd1523d3d91e0ae48157aaf646e58ced8396d06336ebeb6c6d54",
-    "whitelist/shadowrocket-core.conf": "6fae6788945b9aed57314f8f4f99dee1ea1a461c225747bbe8b4bd215db00175",
+    "whitelist/shadowrocket-whitelist.conf": "6f00f0feb9432a4a08a55b5ac9655470293b2015699312abd509762edc3c5db0",
+    "whitelist/shadowrocket-core.conf": "6f00f0feb9432a4a08a55b5ac9655470293b2015699312abd509762edc3c5db0",
     "whitelist/UPSTREAM-LICENSE.txt": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
-    "whitelist/README.txt": "5d787810db34e00d670b5b5d188f64b01f69a4a605aa4c0341871efa08c85ff3"
+    "whitelist/README.txt": "d8b9ff2ecb42615fd448389ff014fc2c116a61bce43f1b079bc05da447bb387c"
   }
 }

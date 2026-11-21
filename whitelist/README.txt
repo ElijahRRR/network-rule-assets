@@ -3,5 +3,7 @@
 无中国 GEOIP 直连兜底，无公网 IP/关键词直连猜测；未命中域名和公网 IP 默认代理。
 保留原个人直连和 Sony/Steam/Apple/Microsoft 等明确公共域名例外。
 Surge 规则通过外部资源更新，主配置保留本地编辑。Windows 需添加私密本地脚本并定时更新基础订阅。
+小火箭下载 shadowrocket-whitelist.conf，与原模式 shadowrocket-core.conf 分开保存。
+旧 whitelist/shadowrocket-core.conf 仅作兼容入口，其更新地址也指向新文件。
 小火箭更新本基础配置，使用不设更新地址的本地扩展保存例外；节点订阅沿用原地址。
 纯规则文件；不包含节点凭据。Loyalsoldier/clash-rules 的 LICENSE 随本目录发布。
