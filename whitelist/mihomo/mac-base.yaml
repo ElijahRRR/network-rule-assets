@@ -1,0 +1,208 @@
+{
+  "mode": "rule",
+  "log-level": "warning",
+  "profile": {
+    "store-selected": true
+  },
+  "proxies": [
+    {
+      "name": "断开",
+      "type": "reject"
+    }
+  ],
+  "proxy-providers": {
+    "DMIT": {
+      "type": "inline",
+      "payload": []
+    },
+    "OCI": {
+      "type": "inline",
+      "payload": []
+    },
+    "AIRPORT": {
+      "type": "inline",
+      "payload": []
+    }
+  },
+  "proxy-groups": [
+    {
+      "name": "日常出口",
+      "type": "select",
+      "proxies": [
+        "断开"
+      ],
+      "use": [
+        "DMIT",
+        "OCI",
+        "AIRPORT"
+      ],
+      "url": "https://cp.cloudflare.com/generate_204"
+    }
+  ],
+  "rule-providers": {
+    "personal-0-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/personal-0-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/personal-0-direct.list",
+      "proxy": "日常出口"
+    },
+    "personal-0-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/personal-0-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/personal-0-proxy.list",
+      "proxy": "日常出口"
+    },
+    "public-1-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-1-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-1-proxy.list",
+      "proxy": "日常出口"
+    },
+    "public-2-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-2-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-2-direct.list",
+      "proxy": "日常出口"
+    },
+    "public-3-reject": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-3-reject.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-3-reject.list",
+      "proxy": "日常出口"
+    },
+    "public-4-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-4-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-4-direct.list",
+      "proxy": "日常出口"
+    },
+    "public-5-proxy": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-5-proxy.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-5-proxy.list",
+      "proxy": "日常出口"
+    },
+    "public-6-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-6-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-6-direct.list",
+      "proxy": "日常出口"
+    },
+    "public-7-direct": {
+      "type": "http",
+      "behavior": "classical",
+      "format": "text",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/whitelist/rules/abaa83631db45050c85d/mac/public-7-direct.list",
+      "interval": 86400,
+      "path": "./rule-providers/whitelist/rules/abaa83631db45050c85d/mac/public-7-direct.list",
+      "proxy": "日常出口"
+    }
+  },
+  "rules": [
+    "DOMAIN,raw.githubusercontent.com,日常出口",
+    "RULE-SET,personal-0-direct,DIRECT,no-resolve",
+    "RULE-SET,personal-0-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,personal-0-proxy)),REJECT",
+    "RULE-SET,public-1-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,public-1-proxy)),REJECT",
+    "RULE-SET,public-2-direct,DIRECT,no-resolve",
+    "RULE-SET,public-3-reject,REJECT,no-resolve",
+    "RULE-SET,public-4-direct,DIRECT,no-resolve",
+    "RULE-SET,public-5-proxy,日常出口,no-resolve",
+    "AND,((NETWORK,UDP),(RULE-SET,public-5-proxy)),REJECT",
+    "RULE-SET,public-6-direct,DIRECT,no-resolve",
+    "RULE-SET,public-7-direct,DIRECT,no-resolve",
+    "NETWORK,UDP,日常出口",
+    "NETWORK,UDP,REJECT",
+    "MATCH,日常出口"
+  ],
+  "dns": {
+    "enable": true,
+    "enhanced-mode": "fake-ip",
+    "fake-ip-range": "198.18.0.1/16",
+    "fake-ip-filter": [
+      "*.lan",
+      "*.local",
+      "localhost"
+    ],
+    "ipv6": false,
+    "default-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "nameserver": [
+      "https://1.1.1.1/dns-query#日常出口"
+    ],
+    "proxy-server-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "direct-nameserver": [
+      "223.5.5.5",
+      "119.29.29.29"
+    ],
+    "direct-nameserver-follow-policy": false,
+    "nameserver-policy": {
+      "raw.githubusercontent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rule-set:personal-0-direct": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ],
+      "rule-set:personal-0-proxy": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rule-set:public-1-proxy": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rule-set:public-2-direct": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ],
+      "rule-set:public-3-reject": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rule-set:public-4-direct": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ],
+      "rule-set:public-5-proxy": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "rule-set:public-6-direct": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ],
+      "rule-set:public-7-direct": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ]
+    }
+  },
+  "hosts": {}
+}
