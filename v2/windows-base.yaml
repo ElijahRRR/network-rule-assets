@@ -64,333 +64,333 @@
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-000.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-000.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-000.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-000.list",
       "proxy": "资源更新"
     },
     "personal-006": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-006.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-006.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-006.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-006.list",
       "proxy": "资源更新"
     },
     "personal-007": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-007.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-007.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-007.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-007.list",
       "proxy": "资源更新"
     },
     "personal-052": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-052.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-052.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-052.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-052.list",
       "proxy": "资源更新"
     },
     "personal-054": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-054.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-054.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-054.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-054.list",
       "proxy": "资源更新"
     },
     "personal-090": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-090.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-090.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-090.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-090.list",
       "proxy": "资源更新"
     },
     "personal-097": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-097.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-097.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-097.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-097.list",
       "proxy": "资源更新"
     },
     "personal-098": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-098.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-098.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-098.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-098.list",
       "proxy": "资源更新"
     },
     "personal-142": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/personal-142.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/personal-142.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/personal-142.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/personal-142.list",
       "proxy": "资源更新"
     },
     "public-00": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-00.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-00.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-00.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-00.list",
       "proxy": "资源更新"
     },
     "public-01": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-01.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-01.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-01.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-01.list",
       "proxy": "资源更新"
     },
     "public-02": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-02.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-02.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-02.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-02.list",
       "proxy": "资源更新"
     },
     "public-03": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-03.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-03.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-03.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-03.list",
       "proxy": "资源更新"
     },
     "public-04": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-04.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-04.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-04.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-04.list",
       "proxy": "资源更新"
     },
     "public-05": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-05.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-05.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-05.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-05.list",
       "proxy": "资源更新"
     },
     "public-06": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-06.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-06.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-06.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-06.list",
       "proxy": "资源更新"
     },
     "public-07": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-07.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-07.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-07.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-07.list",
       "proxy": "资源更新"
     },
     "public-08": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-08.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-08.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-08.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-08.list",
       "proxy": "资源更新"
     },
     "public-09": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-09.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-09.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-09.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-09.list",
       "proxy": "资源更新"
     },
     "public-10": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-10.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-10.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-10.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-10.list",
       "proxy": "资源更新"
     },
     "public-11": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-11.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-11.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-11.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-11.list",
       "proxy": "资源更新"
     },
     "public-12": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-12.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-12.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-12.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-12.list",
       "proxy": "资源更新"
     },
     "public-13": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-13.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-13.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-13.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-13.list",
       "proxy": "资源更新"
     },
     "public-14": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-14.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-14.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-14.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-14.list",
       "proxy": "资源更新"
     },
     "public-15": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-15.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-15.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-15.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-15.list",
       "proxy": "资源更新"
     },
     "public-16": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-16.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-16.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-16.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-16.list",
       "proxy": "资源更新"
     },
     "public-17": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-17.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-17.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-17.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-17.list",
       "proxy": "资源更新"
     },
     "public-18": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-18.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-18.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-18.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-18.list",
       "proxy": "资源更新"
     },
     "public-19": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-19.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-19.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-19.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-19.list",
       "proxy": "资源更新"
     },
     "public-20": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-20.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-20.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-20.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-20.list",
       "proxy": "资源更新"
     },
     "public-21": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-21.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-21.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-21.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-21.list",
       "proxy": "资源更新"
     },
     "public-22": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-22.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-22.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-22.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-22.list",
       "proxy": "资源更新"
     },
     "public-23": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-23.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-23.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-23.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-23.list",
       "proxy": "资源更新"
     },
     "public-24": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-24.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-24.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-24.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-24.list",
       "proxy": "资源更新"
     },
     "public-25": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-25.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-25.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-25.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-25.list",
       "proxy": "资源更新"
     },
     "public-26": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-26.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-26.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-26.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-26.list",
       "proxy": "资源更新"
     },
     "public-27": {
       "type": "http",
       "behavior": "classical",
       "format": "text",
-      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/abaa83631db45050c85d/windows/public-27.list",
+      "url": "https://raw.githubusercontent.com/ElijahRRR/network-rule-assets/main/versions/33a780823ecc60574cf8/windows/public-27.list",
       "interval": 86400,
-      "path": "./rule-providers/versions/abaa83631db45050c85d/windows/public-27.list",
+      "path": "./rule-providers/versions/33a780823ecc60574cf8/windows/public-27.list",
       "proxy": "资源更新"
     }
   },
@@ -1397,6 +1397,10 @@
         "119.29.29.29"
       ],
       "+.biligame.net": [
+        "223.5.5.5",
+        "119.29.29.29"
+      ],
+      "+.biliimg.com": [
         "223.5.5.5",
         "119.29.29.29"
       ],
@@ -4567,9 +4571,6 @@
       "+.000webhost.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.030buy.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.0rz.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4595,6 +4596,15 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.111666.best": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.123av.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.123av.me": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.123av.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.123rf.com": [
@@ -4643,6 +4653,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.18comic.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.18comic.vip": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.18mh.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.18onlygirls.com": [
@@ -4748,6 +4764,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.233v2.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.24hbook.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.24hrs.ca": [
@@ -4870,6 +4889,9 @@
       "+.51luoben.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.51papaya.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.5278.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4948,6 +4970,9 @@
       "+.7mmtv.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.7x24hrs.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.8-d.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -4996,9 +5021,6 @@
       "+.91vps.club": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.92ccav.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.991.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5035,6 +5057,9 @@
       "+.aamacau.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.aave.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.abc.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5062,13 +5087,13 @@
       "+.abema.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.abitno.linpie.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ablwang.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.aboluowang.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.about.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.about.me": [
@@ -5080,13 +5105,10 @@
       "+.abplive.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.abs.edu": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.acast.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.accim.org": [
+      "+.accountboy.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.accountkit.com": [
@@ -5096,6 +5118,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.acevpn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.acg.mn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.acg.rip": [
@@ -5191,6 +5216,9 @@
       "+.aex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.af.edu": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.af.mil": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5224,9 +5252,6 @@
       "+.ai.dev": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.ai.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.ai.studio": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5239,6 +5264,12 @@
       "+.aida.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.aidc.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.aihub.top": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.aiosearch.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5249,9 +5280,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.airconsole.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.aircrack-ng.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.airitilibrary.com": [
@@ -5299,9 +5327,6 @@
       "+.akamaihd.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.akamaistream.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.akamaized.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5309,6 +5334,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.akiba-web.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.akile.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.akinator.com": [
@@ -5354,6 +5382,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.aljazeera.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.aljazeera.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.alkasir.com": [
@@ -5467,9 +5498,6 @@
       "+.america.gov": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.american.edu": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.americangreencard.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5572,10 +5600,13 @@
       "+.aniscartujo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.annas-archive.org": [
+      "+.annas-archive.gd": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.annas-archive.se": [
+      "+.annas-archive.gl": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.annas-archive.pk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.annatam.com": [
@@ -5633,6 +5664,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.antpool.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.anuneko.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.anyporn.com": [
@@ -5785,6 +5819,12 @@
       "+.aptoide.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.arcgis.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.archive-it.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.archive.fo": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5824,6 +5864,9 @@
       "+.areca-backup.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.arena.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.arena.taipei": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5860,6 +5903,12 @@
       "+.arvanstorage.ir": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.arweave.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.as.mr": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.asacp.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -5894,6 +5943,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.asiaone.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.asiasociety.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.asiatgp.com": [
@@ -6008,6 +6060,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.avidemux.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.avistaz.to": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.avmo.pw": [
@@ -6139,6 +6194,9 @@
       "+.bangumi.moe": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.bangumi.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.bangyoulater.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6193,9 +6251,6 @@
       "+.bbc.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.bbc.in": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.bbc.net.uk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6226,10 +6281,22 @@
       "+.bbs-tw.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.bbs.huasing.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.bbs.kimy.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bbs.qmzdd.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bbs.sina.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bbs.skykiwi.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bbs.sou-tong.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bbs.tuitui.info": [
@@ -6322,6 +6389,9 @@
       "+.bell.wiki": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.bellingcat.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.bemywife.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6403,13 +6473,13 @@
       "+.bfsh.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.bgm.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.bgme.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bgvpn.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.bianlei.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.biantailajiao.com": [
@@ -6469,10 +6539,10 @@
       "+.bild.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.biliworld.com": [
+      "+.bilinovel.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.billypan.com": [
+      "+.biliworld.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.binance.com": [
@@ -6509,6 +6579,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bit.no.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bitbaby.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bitbay.net": [
@@ -6550,6 +6623,9 @@
       "+.bitterwinter.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.bittorrent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.bitvise.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6581,6 +6657,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blackvpn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bleepingcomputer.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blewpass.com": [
@@ -6622,7 +6701,7 @@
       "+.blog.exblog.co.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.blog.google": [
+      "+.blog.foolsmountain.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blog.jp": [
@@ -6634,10 +6713,25 @@
       "+.blog.qooza.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.blog.sina.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.blog.sogoo.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.blog.syx86.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.blog.syx86.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.blog.taragana.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.blog.workflow.is": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.blog.youthwant.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blogblog.com": [
@@ -6676,15 +6770,6 @@
       "+.blogspot.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.blogspot.hk": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.blogspot.jp": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.blogspot.tw": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.blogtd.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6710,6 +6795,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blubrry.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.blue-plus.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.blueangellive.com": [
@@ -6778,6 +6866,9 @@
       "+.bookwalker.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.boomplay.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.boomssr.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6821,6 +6912,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.boyfriendtv.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.boylove.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.boysfood.com": [
@@ -6871,6 +6965,9 @@
       "+.breakwall.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.briarproject.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.briefdream.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -6905,6 +7002,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bsky.app": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.bsky.chat": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.bsky.network": [
@@ -7018,9 +7118,6 @@
       "+.businessinsider.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.businessinsider.com.au": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.businesstoday.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7082,6 +7179,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.byrut.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.byspotify.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.byteoversea.com": [
@@ -7184,6 +7284,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.canalporno.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cangku.moe": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cantonese.asia": [
@@ -7378,10 +7481,16 @@
       "+.cdn-telegram.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cdn.assets.lfpcontent.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cdn.optimizely.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cdn.registerdisney.go.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cdn1.lp.saboom.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cdnews.com.tw": [
@@ -7442,6 +7551,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.centurys.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cerebras.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.certificate-transparency.org": [
@@ -7534,6 +7646,9 @@
       "+.chatgpt.livekit.cloud": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.chatgpt.site": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.chatnook.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7574,6 +7689,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.chicagoncmtv.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.chii.in": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.china-mmm.jp.net": [
@@ -7756,6 +7874,15 @@
       "+.chinese-memorial.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.chinese.donga.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.chinese.irib.ir": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.chinese.soifind.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.chinesedaily.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7777,6 +7904,9 @@
       "+.chinesepen.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.chineseposters.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.chineseradioseattle.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7796,6 +7926,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.chobit.cc": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.chonglangtv.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.chosun.com": [
@@ -7825,9 +7958,6 @@
       "+.chromecast.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.chromeenterprise.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.chromeexperiments.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7838,6 +7968,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.chromium.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cht.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.chuang-yen.org": [
@@ -7861,6 +7994,9 @@
       "+.ci-en.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cia.gov": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cici.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7874,6 +8010,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cipfg.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.circle19.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.circlethebayfortibet.org": [
@@ -7942,6 +8081,9 @@
       "+.clarionproject.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.clashyun.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.classicalguitarblog.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -7949,6 +8091,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.claude.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.claude.app": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.claude.com": [
@@ -8017,6 +8162,9 @@
       "+.cloudflare-ipfs.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cloudflare.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cloudflarestatus.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8044,7 +8192,13 @@
       "+.cmi.org.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cmmedia.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cmoinc.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cmoney.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cms.gov": [
@@ -8065,6 +8219,12 @@
       "+.cn-proxy.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cn.streetvoice.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cn2.streetvoice.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cn6.eu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8078,9 +8238,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cnd.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.cnet.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cnex.org.cn": [
@@ -8176,9 +8333,6 @@
       "+.collateralmurder.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.com.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.comedycentral.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8198,9 +8352,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.communistcrimes.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.community.windy.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.communitychoicecu.com": [
@@ -8278,6 +8429,9 @@
       "+.coze.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.cpc.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.cpj.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8308,6 +8462,9 @@
       "+.crd-net.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.creader.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.creaders.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8317,10 +8474,10 @@
       "+.creativelab5.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.crisisresponse.google": [
+      "+.cristyli.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.cristyli.com": [
+      "+.crixet.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.crocotube.com": [
@@ -8359,6 +8516,9 @@
       "+.cryptographyengineering.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.csc.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.csdparty.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8383,6 +8543,9 @@
       "+.ctao.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.ctee.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ctfriend.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8390,6 +8553,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ctinews.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ctinsider.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ctitv.com.tw": [
@@ -8462,6 +8628,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cyberctm.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.cyberghost.natado.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.cyberghostvpn.com": [
@@ -8557,6 +8726,9 @@
       "+.dailymotion.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.dailynews.sina.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.dailysabah.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8647,6 +8819,9 @@
       "+.daozhongxing.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.dappcdn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.darktech.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8669,6 +8844,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.data-vocabulary.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.data18.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.datalabour.com": [
@@ -8812,12 +8990,6 @@
       "+.demosisto.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.deno.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.deno.dev": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.depositphotos.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -8827,13 +8999,13 @@
       "+.desc.se": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.design.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.desipro.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dessci.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.destiny.xfiles.to": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.destroy-china.jp": [
@@ -8864,6 +9036,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dfp6rglgjqszk.cloudfront.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.dh.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dharamsalanet.com": [
@@ -8977,6 +9152,9 @@
       "+.dit-inc.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.divdyn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.diyin.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9034,7 +9212,7 @@
       "+.dns-stuff.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.dns.google": [
+      "+.dns.sb": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dns04.com": [
@@ -9094,6 +9272,9 @@
       "+.dogfartnetwork.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.doh.sb": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.dojin.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9112,13 +9293,7 @@
       "+.domain.club.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.domains.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.domaintoday.com.au": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.donga.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dongtaiwang.com": [
@@ -9149,6 +9324,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dorjeshugden.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.dot.sb": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dotgov.gov": [
@@ -9194,6 +9372,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dowjones.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.dowjones.io": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.download.cnet.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dphk.org": [
@@ -9259,6 +9443,9 @@
       "+.dstk.dk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.dt18.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.dtdns.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9275,6 +9462,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dubox.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.duck.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.duck.com": [
@@ -9356,9 +9546,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dwnews.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.dxiong.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.dynamic-dns.net": [
@@ -9520,6 +9707,9 @@
       "+.edicypages.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.edigest.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.edmontonchina.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9541,6 +9731,9 @@
       "+.edx-cdn.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.eeas.europa.eu": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.eesti.ee": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9548,6 +9741,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.efcc.org.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.eff.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.effers.com": [
@@ -9587,6 +9783,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.electrek.co": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.element.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.elgoog.im": [
@@ -9665,9 +9864,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.entnt.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.environment.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.epac.to": [
@@ -9784,6 +9980,9 @@
       "+.eroprofile.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.eroterest.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.eroticsaloon.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9853,9 +10052,6 @@
       "+.euronews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.europa.eu": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.evchk.wikia.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9886,6 +10082,9 @@
       "+.exhentai.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.eximbank.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.exmo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -9908,6 +10107,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.expofutures.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.expressnews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.expressvpn.com": [
@@ -9953,6 +10155,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.f8.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.f95zone.to": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.facebook.br": [
@@ -10120,6 +10325,9 @@
       "+.fangmincn.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.fangong.forums-free.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.fangong.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -10133,9 +10341,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fanqiang.network": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.fanqiang.tk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fanqiangdang.com": [
@@ -10525,9 +10730,6 @@
       "+.fontsource.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.foolsmountain.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.fooooo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -10552,13 +10754,19 @@
       "+.forms.new": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.forum.mymaji.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.forum.omy.sg": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.forum4hk.com": [
+      "+.forum.slime.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.forums-free.com": [
+      "+.forum.xinbao.de": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.forum4hk.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fotile.me": [
@@ -10574,9 +10782,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fox.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.foxbusiness.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.foxdcg.com": [
@@ -10684,6 +10889,9 @@
       "+.freedl.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.freedom.gov": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.freedomchina.info": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -10775,6 +10983,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.freetcp.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.freeterabox.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.freetibet.net": [
@@ -10972,16 +11183,106 @@
       "+.furrybar.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.futu.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu.link": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu0.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu1.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu2.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu3.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu4.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu5.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu6.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu7.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu8.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futu9.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuau.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futubull.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuchain.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuesop.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futufin.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuhk.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuhk2.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuhkapp.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuhn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuholdings.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuinc.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futuniuniu.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.futunn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.futurechinaforum.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.futuremessage.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.futustatic.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.fututrade.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.fututrustee.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.fux.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fuyin.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.fuyin116.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.fuyindiantai.org": [
@@ -11012,6 +11313,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.g-queen.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.g.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.g.co": [
@@ -11071,6 +11375,9 @@
       "+.gamez.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.gamma.app": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.gamme.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -11114,6 +11421,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gate-project.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gate.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gate.io": [
@@ -11209,6 +11519,9 @@
       "+.gemini.gstatic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.gencraft.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.generated.photos": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -11284,6 +11597,9 @@
       "+.getmdl.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.getmonero.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.getoutline.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -11300,6 +11616,27 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gettrials.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.ae": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.ca": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.de": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.in": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.it": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gettyimages.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.getuploader.com": [
@@ -11324,6 +11661,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gfwatch.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gfwbao.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gfwlist.end": [
@@ -11431,6 +11771,9 @@
       "+.glass8.eu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.gle": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.global.ssl.fastly.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -11477,6 +11820,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gmgard.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.gmgn.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gmhz.org": [
@@ -11614,13 +11960,7 @@
       "+.goo.gl": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.goo.gle": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.goo.ne.jp": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.good.news": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gooday.xyz": [
@@ -11648,6 +11988,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.goofind.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.goog": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.google.ac": [
@@ -12541,6 +12887,9 @@
       "+.greatzhonghua.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.greenbean.media": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.greenfieldbookstore.com.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -12581,9 +12930,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ground.news": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.grow.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.gs-discuss.com": [
@@ -12760,7 +13106,13 @@
       "+.hanime.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.hanime1.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hanime1.me": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hanimeone.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hanminzu.org": [
@@ -12838,6 +13190,9 @@
       "+.hclips.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.hd.stheadline.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hdlt.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -12910,7 +13265,16 @@
       "+.helpzhuling.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.hembed.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hentai.to": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hentai.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hentaiclub.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hentaitube.tv": [
@@ -12974,6 +13338,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hidden-advent.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hiddify.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hide.me": [
@@ -13048,10 +13415,16 @@
       "+.hinet.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.historylines.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hitbtc.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hitomi.la": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hive.blog": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hiveon.net": [
@@ -13114,6 +13487,9 @@
       "+.hkci.org.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.hkcitycreation.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hkcmi.edu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13121,6 +13497,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkcoc.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hkcourtnews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkdailynews.com.hk": [
@@ -13145,6 +13524,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkfaa.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hkfeature.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkfreezone.com": [
@@ -13193,6 +13575,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkmap.live": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.hkong.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.hkopentv.com": [
@@ -13262,6 +13647,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.home.saxo": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.home.sina.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.home.so-net.net.tw": [
@@ -13444,6 +13832,9 @@
       "+.https443.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.htx.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.hua-yue.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13463,9 +13854,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.huashangnews.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.huasing.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.huaxia-news.com": [
@@ -13555,6 +13943,9 @@
       "+.huobi.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.huobi.li": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.huobi.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13627,6 +14018,9 @@
       "+.hyread.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.hysteria.network": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.i-cable.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13690,6 +14084,9 @@
       "+.icams.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.icdf.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.icedrive.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13718,6 +14115,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.idaiwan.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.idcflare.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.iddddg.com": [
@@ -13873,9 +14273,6 @@
       "+.imb.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.imdb.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.img.ly": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -13883,9 +14280,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.imgchili.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.imgmega.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.imgur.com": [
@@ -13969,6 +14363,9 @@
       "+.informer.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.infosec.exchange": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.infura.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14047,6 +14444,9 @@
       "+.inthenameofconfuciusmovie.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.investing.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.invidio.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14066,6 +14466,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ip138.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ipac.global": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ipalter.com": [
@@ -14135,9 +14538,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.iredmail.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.irib.ir": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.irna.ir": [
@@ -14255,6 +14655,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.itiger.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.itigerup.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.itsaol.com": [
@@ -14386,9 +14789,6 @@
       "+.jav.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.jav101.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.jav321.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14405,6 +14805,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.javbus.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.javchu.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.javdb.com": [
@@ -14492,6 +14895,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.jgoodies.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.jhelab.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.jiangweiping.com": [
@@ -14639,6 +15045,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.jshell.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.jspm.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.jtvnw.net": [
@@ -14794,6 +15203,9 @@
       "+.karayou.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.kards.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.karkhung.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14801,6 +15213,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.karmapa.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.kathmandupost.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.kawaiikawaii.jp": [
@@ -14842,13 +15257,13 @@
       "+.kepard.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.keso.cn": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.kex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.keycdn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.kfor.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.kfs.io": [
@@ -14858,6 +15273,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.khatrimaza.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.khc.edu.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.khmusic.com.tw": [
@@ -14870,6 +15288,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.killwall.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.kimootoko.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.kindle4rss.com": [
@@ -14914,6 +15335,9 @@
       "+.kiwi.kz": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.kiwix.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.kk-whys.co.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -14930,9 +15354,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.kktv.me": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.klip.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.kmuh.org.tw": [
@@ -15094,22 +15515,25 @@
       "+.lamrim.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.landbank.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.landofhope.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.lanterncn.cn": [
+      "+.lantern.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lantosfoundation.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.laod.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.laogai.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.laogairesearch.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.laohu8.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.laomiu.com": [
@@ -15145,6 +15569,12 @@
       "+.lbank.info": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.lbctrl.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.lbkrs.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ldplayer.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -15161,9 +15591,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ledger.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.leeao.com.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lefora.com": [
@@ -15202,10 +15629,10 @@
       "+.lenwhite.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.lerosua.org": [
+      "+.leonardo.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.lers.google": [
+      "+.lerosua.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lesoir.be": [
@@ -15218,6 +15645,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.letscorp.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.level-plus.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lexica.art": [
@@ -15233,9 +15663,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lflinkup.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.lfpcontent.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lhakar.org": [
@@ -15268,6 +15695,9 @@
       "+.libertytimes.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.libgen.is": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.library-access.sk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -15281,6 +15711,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lifemiles.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.lifesitenews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lighten.org.tw": [
@@ -15305,6 +15738,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lilaoshibushinilaoshi.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.limedia.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.limiao.net": [
@@ -15358,13 +15794,13 @@
       "+.linkuswell.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.linpie.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.linux.do": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.linux.org.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.linux.sb": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.linuxtoy.org": [
@@ -15502,10 +15938,40 @@
       "+.londonchinese.ca": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.longbridge.cloud": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridge.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridge.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridge.global": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridge.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridge.sg": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridgeapp.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longbridgehk.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.longhair.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.longmusic.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longportapp.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.longportapp.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.longtermly.net": [
@@ -15530,6 +15996,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.lotuslight.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.lovart.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.loved.hk": [
@@ -15655,6 +16124,9 @@
       "+.madthumbs.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.magazines.sina.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.magic-net.info": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -15733,6 +16205,9 @@
       "+.manta.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.manus.im": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.manyvoices.news": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -15769,10 +16244,16 @@
       "+.marxists.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.mas.to": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.mash.to": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.maskedip.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.master-insight.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mastodon.cloud": [
@@ -15800,6 +16281,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mathiew-badimon.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.matichon.co.th": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.matome-plus.com": [
@@ -15841,6 +16325,9 @@
       "+.mcaf.ee": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.mceindex.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.mcfog.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -15854,6 +16341,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.me.me": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.me.youthwant.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.meansys.com": [
@@ -15874,10 +16364,16 @@
       "+.mediafreakcity.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.mediamatters.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.mediawiki.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.medium.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.meee.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.meetav.com": [
@@ -15905,6 +16401,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.megalodon.jp": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.megaphone.fm": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.megaproxy.com": [
@@ -16000,6 +16499,9 @@
       "+.meta.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.metaaivm.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.metacafe.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16055,6 +16557,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mhradio.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.mhwindow.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.michaelmarketl.com": [
@@ -16171,6 +16676,9 @@
       "+.ministrybooks.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.minkch.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.minzhuhua.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16181,6 +16689,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.miraheze.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.mirdc.org.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.miroguide.com": [
@@ -16198,7 +16709,13 @@
       "+.mirrormedia.mg": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.missav.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.missav.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.missav.live": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.missav.ws": [
@@ -16244,6 +16761,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mjj.rip": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.mjj.today": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mk5000.com": [
@@ -16300,6 +16820,9 @@
       "+.moegirl.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.moeli-desu.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.moeshare.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16342,6 +16865,9 @@
       "+.moneyhome.biz": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.moneynet.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.monica.im": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16361,6 +16887,18 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.moodyz.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.moomoo.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.moomoobull.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.moomooequity.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.moomootrustee.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.moon.fm": [
@@ -16394,6 +16932,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mos.ru": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.mosavi.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.mosucloud.site": [
@@ -16468,9 +17009,6 @@
       "+.msha.gov": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.msn.com.tw": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.mstdn.social": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16516,6 +17054,9 @@
       "+.muscdn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.muse.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.musicade.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16549,10 +17090,16 @@
       "+.my-formosa.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.my-formosa.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.my-private-network.co.uk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.my-proxy.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.my.opera.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.my03.com": [
@@ -16660,9 +17207,6 @@
       "+.mylftv.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.mymaji.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.mymediarom.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16711,7 +17255,13 @@
       "+.mysecondarydns.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.myshare.url.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.mysinablog.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.mysite.verizon.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.myspace.com": [
@@ -16780,16 +17330,10 @@
       "+.nanyangpost.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.nanzao.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.naol.ca": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.naol.cc": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.narod.ru": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nasa.gov": [
@@ -16798,16 +17342,10 @@
       "+.nat.moe": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.natado.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.national-lottery.co.uk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nationalawakening.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.nationalgeographic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nationalinterest.org": [
@@ -16817,6 +17355,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nationsonline.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.nationthailand.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nationwide.com": [
@@ -16837,9 +17378,6 @@
       "+.naweeklytimes.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.nbc.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.nbcnews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16855,12 +17393,6 @@
       "+.nbyy.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.nccwatch.org.tw": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.nch.com.tw": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.nchrd.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -16868,9 +17400,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ncol.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.nde.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ndi.org": [
@@ -16885,7 +17414,13 @@
       "+.nekoslovakia.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.nemesis2.qx.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.neo-miracle.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.neodb.social": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.neoforged.net": [
@@ -16894,16 +17429,13 @@
       "+.neowin.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.nephobox.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.netalert.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.netbirds.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.netcolony.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.netfirms.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.netflav.com": [
@@ -17017,7 +17549,16 @@
       "+.newrelic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.news.nationalgeographic.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.news.omy.sg": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.news.sina.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.news.singtao.ca": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.news1.kr": [
@@ -17047,6 +17588,9 @@
       "+.newsdh.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.newshub.co.nz": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.newsmax.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17063,6 +17607,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.newstatesman.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.newstimes.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.newsweek.com": [
@@ -17087,6 +17634,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.next11.co.jp": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.nextapple.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nextdigital.com.hk": [
@@ -17125,6 +17675,12 @@
       "+.nflxvideo.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.nfsc.press": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.nfscofficial.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.nftstorage.link": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17146,10 +17702,10 @@
       "+.nhncorp.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.nic.google": [
+      "+.nic.gov": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.nic.gov": [
+      "+.nicoseiga.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nicovideo.jp": [
@@ -17183,9 +17739,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ninecommentaries.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.ning.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ninjacloak.com": [
@@ -17225,6 +17778,15 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.njactb.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.njav.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.njav.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.njavtv.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.njuice.com": [
@@ -17288,6 +17850,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nos.nl": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.note.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.notebook.google": [
@@ -17383,6 +17948,9 @@
       "+.ns3.name": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.nstc.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ntd.tv": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17411,6 +17979,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ntdtvla.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.nthlink.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ntrfun.com": [
@@ -17462,6 +18033,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.nwtca.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.nxtrace.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ny.stgloballink.com": [
@@ -17611,9 +18185,6 @@
       "+.ogate.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.ohchr.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.ohmyrss.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17632,10 +18203,16 @@
       "+.okayfreedom.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.okcoin.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.okex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.okk.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.oklink.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.okpool.me": [
@@ -17645,6 +18222,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.old-cat.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.oldmapsonline.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.olehd.com": [
@@ -17767,6 +18347,12 @@
       "+.oojj.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.ooni.io": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ooni.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.oopsforum.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17788,7 +18374,13 @@
       "+.openallweb.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.openart.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.openbase.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.opencritic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.opendemocracy.net": [
@@ -17809,6 +18401,9 @@
       "+.opensea.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.openstreetmap.fr": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.openstreetmap.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17824,10 +18419,7 @@
       "+.openwebster.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.openwrt.org.cn": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.opera.com": [
+      "+.opml.radiotime.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.opus-gaming.com": [
@@ -17869,6 +18461,9 @@
       "+.osfoora.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.osmand.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.otcbtc.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -17899,28 +18494,22 @@
       "+.ourtv.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.over-blog.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.overcast.fm": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.overdaily.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.overplay.net": [
+      "+.overdrive.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.ovi.com": [
+      "+.overplay.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ovpn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ow.ly": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.owind.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.owl.li": [
@@ -17977,9 +18566,6 @@
       "+.page.link": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.page.tl": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.page2rss.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18008,6 +18594,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.palworldgame.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.panamapapers.sueddeutsche.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pancakeswap.finance": [
@@ -18067,6 +18656,9 @@
       "+.parsevideo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.partnerstack.xyz": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.partycasino.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18124,6 +18716,9 @@
       "+.pcdvd.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pcgamesn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pcgamestorrents.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18146,6 +18741,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pdproxy.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pdst.fm": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.peace.ca": [
@@ -18182,6 +18780,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pendrivelinux.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.penguin.com.au": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pengyulong.com": [
@@ -18221,6 +18822,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.periscope.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.perma.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.perplexity.ai": [
@@ -18349,6 +18953,9 @@
       "+.pinterest.ca": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pinterest.cl": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pinterest.co.kr": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18358,13 +18965,28 @@
       "+.pinterest.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pinterest.com.au": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pinterest.com.mx": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pinterest.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pinterest.dk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pinterest.es": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pinterest.fr": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pinterest.ie": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pinterest.it": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pinterest.jp": [
@@ -18373,7 +18995,19 @@
       "+.pinterest.nl": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pinterest.nz": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pinterest.ph": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pinterest.pt": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pinterest.se": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pioneer-worker.forums-free.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pipii.tv": [
@@ -18412,9 +19046,6 @@
       "+.pk.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.pki.goog": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.pkqjiasu.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18422,6 +19053,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.placemix.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.play-analytics.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.play-asia.com": [
@@ -18472,10 +19106,16 @@
       "+.pmates.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.po-kaki-to.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.po2b.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pobieramy.top": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pocketcasts.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.podbean.com": [
@@ -18485,6 +19125,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.podictionary.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.podwise.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.poe.com": [
@@ -18503,6 +19146,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pokerstrategy.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.poland.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.politicalchina.org": [
@@ -18703,9 +19349,6 @@
       "+.prestige-av.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.pride.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.primevideo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -18761,6 +19404,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.project-syndicate.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.prompthero.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.prosciana.com": [
@@ -18886,7 +19532,13 @@
       "+.pugpig.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.pullfolio.co": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.pullfolio.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.pulsehknews.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.punyu.com": [
@@ -18899,9 +19551,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pureconcepts.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.puredns.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.pureinsight.org": [
@@ -18955,12 +19604,6 @@
       "+.pythonhackers.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.pythonic.life": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.pytorch.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.qanote.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19000,6 +19643,9 @@
       "+.qienkuen.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.qingse.one": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.qiwen.lu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19031,6 +19677,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.qtweeter.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.quakemachinex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.quannengshen.org": [
@@ -19072,9 +19721,6 @@
       "+.qvodzy.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.qx.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.qxbbs.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19108,6 +19754,9 @@
       "+.radio-en-ligne.fr": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.radio.co": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.radio.garden": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19118,9 +19767,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.radioline.co": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.radiotime.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.radiovaticana.org": [
@@ -19183,6 +19829,9 @@
       "+.rapbull.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.raphael.app": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.rapidgator.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19211,6 +19860,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rawgithub.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.rawstory.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.razyboard.com": [
@@ -19262,6 +19914,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rebatesrule.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.recordedfuture.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.recordhistory.org": [
@@ -19318,6 +19973,9 @@
       "+.redhotlabs.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.redteago.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.redtube.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19325,9 +19983,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.reflectivecode.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.registry.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.reimu.net": [
@@ -19357,13 +20012,13 @@
       "+.renyurenquan.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.research.google": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.resilio.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.resistchina.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.restofworld.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.retweeteffect.com": [
@@ -19394,6 +20049,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rfachina.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.rfalive1.akacast.akamaistream.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rfamobile.org": [
@@ -19456,10 +20114,16 @@
       "+.robinfrontend-pa.googleapis.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.roblox.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.roboforex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.robustnessiskey.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.roc-taiwan.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rocket-inc.net": [
@@ -19468,13 +20132,13 @@
       "+.rocket.chat": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.rocketbbs.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.rocketcdn.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rocksdb.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.rocmgov.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rojo.com": [
@@ -19505,6 +20169,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.roucdn.link": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.roushuwo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rpglogs.com": [
@@ -19546,6 +20213,9 @@
       "+.rti.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.rts.ch": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.rtycminnesota.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19553,6 +20223,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rukor.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.rule34.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.rule34.xxx": [
@@ -19615,9 +20288,6 @@
       "+.s8forum.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.saboom.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.sacks.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19637,9 +20307,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.safervpn.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.safety.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sagernet.org": [
@@ -19726,10 +20393,22 @@
       "+.sb-cd.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.sb.sb": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.sbme.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sbs.com.au": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.scache.vzw.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.scache1.vzw.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.scache2.vzw.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.scasino.com": [
@@ -19741,7 +20420,16 @@
       "+.schema.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sciencemag.org": [
+      "+.schwab.co.uk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.schwab.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.schwab.com.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.schwab.com.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sciencenets.com": [
@@ -19867,9 +20555,6 @@
       "+.serveusers.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.services.googleapis.cn": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.sesawe.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -19993,10 +20678,19 @@
       "+.shangfang.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.shanghainationalparty.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.shapeservices.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.share-videos.se": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.share.ovi.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.share.youthwant.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sharebee.com": [
@@ -20080,6 +20774,9 @@
       "+.shitaotv.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.shitjournal.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.shixiao.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20116,6 +20813,9 @@
       "+.showwe.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.shuaiapi.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.shutterstock.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20132,6 +20832,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sidelinessportseatery.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.sider.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sierrafriendsoftibet.org": [
@@ -20153,6 +20856,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.simbolostwitter.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.simianx.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.simplecd.org": [
@@ -20183,9 +20889,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.singpao.com.hk": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.singtao.ca": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.singtao.com": [
@@ -20222,6 +20925,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sinoquebec.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.sinyalee.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sipml5.org": [
@@ -20290,12 +20996,6 @@
       "+.skyking.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.skykiwi.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.skynet.be": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.skyvegas.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20333,9 +21033,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.slideshare.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.slime.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.slinkset.com": [
@@ -20461,9 +21158,6 @@
       "+.sogclub.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sogoo.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.sogrady.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20474,9 +21168,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sohfrance.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.soifind.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sokamonline.com": [
@@ -20545,7 +21236,7 @@
       "+.sostibet.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sou-tong.org": [
+      "+.sotwe.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.soubory.com": [
@@ -20555,6 +21246,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.soulcaliburhentai.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.soulogic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.soumo.info": [
@@ -20605,7 +21299,10 @@
       "+.soylent.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.soylentnews.org": [
+      "+.spaceforce.mil": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.spacex.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.spankbang.com": [
@@ -20695,9 +21392,6 @@
       "+.springwood.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sprite.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.sproutcore.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20710,6 +21404,9 @@
       "+.squirrelvpn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.srcf.ucam.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.srocket.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20717,6 +21414,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ss.levyhsu.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ss.pythonic.life": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ss7.vzw.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ssglobal.co": [
@@ -20815,6 +21518,9 @@
       "+.stc.com.sa": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.steamladder.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.steel-storm.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20831,9 +21537,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.stephaniered.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.stheadline.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sthoo.com": [
@@ -20864,9 +21567,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.storagenewsletter.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.stories.google": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.storify.com": [
@@ -20914,9 +21614,6 @@
       "+.streema.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.streetvoice.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.strikingly.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -20954,9 +21651,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.successfn.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.sueddeutsche.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.sugarsync.com": [
@@ -21025,7 +21719,13 @@
       "+.superzooi.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.supjav.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.suppig.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.supremecourt.gov": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.suprememastertv.com": [
@@ -21046,10 +21746,10 @@
       "+.surrenderat20.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sustainability.google": [
+      "+.suyangg.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.suyangg.com": [
+      "+.suyingtv.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.svsfx.com": [
@@ -21094,10 +21794,10 @@
       "+.sysresccd.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.sytes.net": [
+      "+.sysub.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.syx86.com": [
+      "+.sytes.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.szbbs.net": [
@@ -21160,6 +21860,12 @@
       "+.tahr.org.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.taiav.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tails.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.taipeisociety.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -21182,6 +21888,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.taiwandc.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.taiwanembassy.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.taiwanhot.net": [
@@ -21211,6 +21920,9 @@
       "+.taiwanonline.cc": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.taiwantoday.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.taiwantp.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -21221,6 +21933,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.taiwanyes.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.taiwanyes.ning.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.talk853.com": [
@@ -21274,9 +21989,6 @@
       "+.taptap.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.taragana.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.tardigrade.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -21314,6 +22026,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tbsec.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tbskkinabalu.page.tl": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tbsmalaysia.org": [
@@ -21376,10 +22091,10 @@
       "+.teamamericany.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.technews.tw": [
+      "+.techbang.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.techspot.com": [
+      "+.technews.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.techviz.net": [
@@ -21478,6 +22193,9 @@
       "+.tfc-taiwan.org.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tfd.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tfhub.dev": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -21497,6 +22215,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thaicn.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.the-sun.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.theatlantic.com": [
@@ -21532,7 +22253,7 @@
       "+.thechinacollection.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.thechinastory.org": [
+      "+.thecollectivehk.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.theconversation.com": [
@@ -21586,10 +22307,16 @@
       "+.theinitium.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.theintercept.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.themoviedb.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thenewslens.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.theonlinecitizen.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thepiratebay.ee": [
@@ -21619,7 +22346,13 @@
       "+.thespeeder.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.thestandard.com.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.thestandnews.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.thestar.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thetatoken.org": [
@@ -21649,13 +22382,22 @@
       "+.thevivekspot.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.theweek.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.thewgo.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thewirechina.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.thewitnesshk.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.theync.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.thinkchina.sg": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.thinkgeek.com": [
@@ -21730,16 +22472,10 @@
       "+.tianhuayuan.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.tianlawoffice.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.tianti.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tiantibooks.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.tianyantong.org.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tianzhu.org": [
@@ -22003,6 +22739,24 @@
       "+.tidalhifi.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tigerbbs.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tigerbbs.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tigerbrokers.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tigerbrokers.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tigerbrokers.nz": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tigerfintech.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tigervpn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22135,6 +22889,9 @@
       "+.tokenlon.im": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tokenplus.app": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tokyo-247.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22145,9 +22902,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tokyocn.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.tomonews.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tomp3.cc": [
@@ -22180,6 +22934,9 @@
       "+.topbtc.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.topic.youthwant.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.topnews.in": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22196,6 +22953,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.toptoon.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tor.updatestar.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tora.to": [
@@ -22217,6 +22977,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.torrentkitty.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.torrentleech.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.torrentprivacy.com": [
@@ -22267,13 +23030,13 @@
       "+.tracfone.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tradeup.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tradingview.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.traffichaus.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.translate.goog": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.transparency.org": [
@@ -22300,6 +23063,9 @@
       "+.trimondi.de": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tritondigital.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tronscan.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22310,6 +23076,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.trtc.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.trtworld.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.truebuddha-md.org": [
@@ -22339,6 +23108,9 @@
       "+.truveo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tryai.dev": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tryheart.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22358,6 +23130,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tt1069.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.ttl.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tttan.com": [
@@ -22525,10 +23300,16 @@
       "+.tvb.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tvbanywhere.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tvboxnow.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tvbs.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tvdy1.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tvider.com": [
@@ -22550,6 +23331,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tw-npo.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tw.streetvoice.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.tw.tomonews.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.tw01.org": [
@@ -22642,7 +23429,13 @@
       "+.twerkingbutt.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.twfhcsec.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.twftp.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.twgov.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.twgreatdaily.com": [
@@ -22804,9 +23597,6 @@
       "+.twittertim.es": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.twitthat.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.twitturk.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22832,6 +23622,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.twskype.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.twstalker.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.twstar.net": [
@@ -22861,6 +23654,9 @@
       "+.txxx.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.tybio.com.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.tycool.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -22868,6 +23664,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.typepad.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.typesafe.ai": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.typeset.io": [
@@ -22895,9 +23694,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.uc-japan.org": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.ucam.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.ucanews.com": [
@@ -22940,6 +23736,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.uhrp.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.uighur.narod.ru": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.uighur.nl": [
@@ -23026,6 +23825,9 @@
       "+.unirule.cloud": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.uniswap.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.unitedsocialpress.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23059,16 +23861,19 @@
       "+.untraceable.us": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.unun.dev": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.unwire.hk": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.uocn.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.upbit.com": [
+      "+.up.audio": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.updatestar.com": [
+      "+.upbit.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.upghsbc.com": [
@@ -23101,6 +23906,9 @@
       "+.uproxy.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.upsangel.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.uptodown.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23120,9 +23928,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.urchin.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.url.com.tw": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.urlborg.com": [
@@ -23161,7 +23966,7 @@
       "+.usembassy.gov": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.usercontent.goog": [
+      "+.users.skynet.be": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.usfk.mil": [
@@ -23174,6 +23979,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.usmc.mil": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.usmgtcg.ning.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.usocctn.com": [
@@ -23257,6 +24065,9 @@
       "+.uymaarip.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.v.recipes": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.v.roucdn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23305,6 +24116,9 @@
       "+.vatn.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.vava8.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.vcf-online.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23312,6 +24126,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vds.rightster.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.veed.io": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vegasred.com": [
@@ -23336,9 +24153,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vercel.app": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.verizon.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vermonttibet.org": [
@@ -23375,6 +24189,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vidble.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.video.foxbusiness.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.videobam.com": [
@@ -23434,9 +24251,6 @@
       "+.vip-enterprise.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.virginia.edu": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.virtualrealporn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23486,6 +24300,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vnet.link": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.voa-11.akacast.akamaistream.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.voa.mobi": [
@@ -23540,6 +24357,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.vovo2000.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.vox.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.voxer.com": [
@@ -23677,9 +24497,6 @@
       "+.vporn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.vpser.net": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.vpsxb.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23698,6 +24515,9 @@
       "+.vrsmash.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.vscc.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.vtunnel.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23710,16 +24530,10 @@
       "+.vyprvpn.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.vzw.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.w-pool.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.w.wiki": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.w3.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.w3s.link": [
@@ -23752,6 +24566,12 @@
       "+.walletconnect.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.walletconnect.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.wallhaven.cc": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.wallmama.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23765,6 +24585,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wallsttv.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.wallzhihu.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.waltermartin.com": [
@@ -23824,6 +24647,9 @@
       "+.washingtonpost.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.washingtontimes.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.watch8x.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23849,6 +24675,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.waymo.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.wbrks.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wd.bible": [
@@ -23914,6 +24743,9 @@
       "+.websdr.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.webshare.io": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.website.new": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -23945,6 +24777,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.weiboleak.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.weights.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.weihuo.org": [
@@ -24094,6 +24929,9 @@
       "+.wiki.esu.im": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.wiki.keso.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.wiki.kfd.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24151,6 +24989,9 @@
       "+.wikiquote.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.wikis.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.wikisource.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24190,6 +25031,9 @@
       "+.windscribe.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.windy.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.wingamestore.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24221,6 +25065,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wisevid.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.wispbyte.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wistia.com": [
@@ -24275,6 +25122,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wolfax.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.womany.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wombo.ai": [
@@ -24355,6 +25205,9 @@
       "+.wp.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.wplace.live": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.wpoforum.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24365,6 +25218,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wretch.cc": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.write.as": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.writesonic.com": [
@@ -24382,10 +25238,10 @@
       "+.wtbn.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.wtfpeople.com": [
+      "+.wtfpass.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.wuerkaixi.com": [
+      "+.wtfpeople.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wufafangwen.com": [
@@ -24421,19 +25277,43 @@
       "+.wwitv.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.www.imdb.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www.klip.me": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.www.lamenhu.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www.lib.virginia.edu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.www.orchidbbs.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.www.owind.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www.sciencemag.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.www.taup.org.tw": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www.thechinastory.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www1.american.edu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.www1.biz": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.wwwhost.biz": [
+      "+.www2.ohchr.org": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.www2.rocketbbs.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.wxw.cat": [
@@ -24478,6 +25358,9 @@
       "+.x3guide.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.x86.fr": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xanga.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24493,16 +25376,19 @@
       "+.xcafe.in": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.xcancel.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xcity.jp": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xcritic.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.xerotica.com": [
+      "+.xdaforums.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.xfiles.to": [
+      "+.xerotica.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xfinity.com": [
@@ -24547,6 +25433,9 @@
       "+.xiaohexie.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.xiaohu8.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xiaolan.me": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24568,9 +25457,6 @@
       "+.xihua.es": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.xinbao.de": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.xing.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24581,6 +25467,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xinmiao.com.hk": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.xinqimeng.over-blog.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xinsheng.net": [
@@ -24631,6 +25520,9 @@
       "+.xn--11xs86f.icu": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.xn--1jqvh729avzfcy2d8ummib.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xn--4gq171p.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24649,6 +25541,9 @@
       "+.xn--i2ru8q2qg.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.xn--kcrv3utim32hx9f6qe.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xn--ngstr-lra8j.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24662,6 +25557,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xn--u2u927b.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.xn--vuqv2cf7wzyig79c.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xnpool.com": [
@@ -24700,6 +25598,9 @@
       "+.xtube.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.xuan.com.my": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.xuchao.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24731,6 +25632,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xvinlink.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.xx.net": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.xxbbx.com": [
@@ -24883,6 +25787,9 @@
       "+.yeyeclub.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.yfsp.tv": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.ygto.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -24961,6 +25868,9 @@
       "+.youmaker.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.youmind.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.youngpornvideos.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -25003,9 +25913,6 @@
       "+.youthnetradio.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
-      "+.youthwant.com.tw": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
       "+.youtu.be": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -25028,6 +25935,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.youversion.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.youversionapi.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.youwin.com": [
@@ -25165,6 +26075,9 @@
       "+.zenmate.com.ru": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.zenmux.ai": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.zerohedge.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -25192,6 +26105,9 @@
       "+.zhangtianliang.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
+      "+.zhangzhehan.net": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
       "+.zhanlve.org": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
@@ -25211,6 +26127,12 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zhenxiang.biz": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.zhijianfengyi.cn": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.zhijianfengyi.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zhinengluyou.com": [
@@ -25235,9 +26157,6 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zhreader.com": [
-        "https://1.1.1.1/dns-query#日常出口"
-      ],
-      "+.zhuanxing.cn": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zhuatieba.com": [
@@ -25328,6 +26247,9 @@
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zozotown.com": [
+        "https://1.1.1.1/dns-query#日常出口"
+      ],
+      "+.zozovideo.com": [
         "https://1.1.1.1/dns-query#日常出口"
       ],
       "+.zpn.im": [

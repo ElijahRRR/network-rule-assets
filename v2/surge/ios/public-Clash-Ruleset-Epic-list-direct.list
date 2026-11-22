@@ -1,7 +1,7 @@
-# managed rules; release abaa83631db45050c85d
+# managed rules; release 33a780823ecc60574cf8
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,ol.epicgames.com

@@ -1,22 +1,22 @@
-# managed rules; release abaa83631db45050c85d
+# managed rules; release 33a780823ecc60574cf8
 DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
-DOMAIN,mtalk.google.com
 DOMAIN,alt1.mobile-gtalk.l.google.com
+DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt2.mobile-gtalk.l.google.com
+DOMAIN,alt3-mtalk.google.com
 DOMAIN,alt3.mobile-gtalk.l.google.com
+DOMAIN,alt4-mtalk.google.com
 DOMAIN,alt4.mobile-gtalk.l.google.com
+DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt5.mobile-gtalk.l.google.com
+DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt6.mobile-gtalk.l.google.com
+DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt7.mobile-gtalk.l.google.com
+DOMAIN,alt8-mtalk.google.com
 DOMAIN,alt8.mobile-gtalk.l.google.com
 DOMAIN,mobile-gtalk.l.google.com
+DOMAIN,mtalk.google.com
 IP-CIDR,64.233.177.188/32
 IP-CIDR,64.233.186.188/32
 IP-CIDR,64.233.187.188/32
@@ -246,9 +246,9 @@ IP-CIDR,223.252.199.67/32
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,origin-a.akamaihd.net
@@ -325,6 +325,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
