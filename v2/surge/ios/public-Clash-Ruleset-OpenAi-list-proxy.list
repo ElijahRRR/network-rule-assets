@@ -1,4 +1,4 @@
-# managed rules; release 33a780823ecc60574cf8
+# managed rules; release e63988a232133c49339f
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
