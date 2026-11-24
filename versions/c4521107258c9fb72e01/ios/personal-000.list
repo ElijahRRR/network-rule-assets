@@ -1,0 +1,6 @@
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,copilotprodattachments.blob.core.windows.net
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
+DOMAIN,agent-stores.s3.us-east-1.amazonaws.com
+DOMAIN,cursor.blob.core.windows.net
