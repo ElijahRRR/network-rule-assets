@@ -1,4 +1,4 @@
-# managed rules; release c4521107258c9fb72e01
+# managed rules; release a5f27e1d51e2083f8c14
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,netflixdnstest
